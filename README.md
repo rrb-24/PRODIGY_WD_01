@@ -1,9 +1,11 @@
 # PRODIGY_WD_01
 This project includes HTML and CSS code for a responsive and visually appealing navigation menu with a transparent background, Font Awesome icons, and smooth transitions. Perfect for modern web applications.
 
-# Check the live page at: https:
+# Check the live page at: 
 
-//rrb-24.github.io/PRODIGY_WD_01/
+https://rrb-24.github.io/PRODIGY_WD_01/
+
+<br>
 
 
 
